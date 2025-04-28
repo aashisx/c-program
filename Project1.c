@@ -8,7 +8,7 @@ int main()
 	w = b - r;
 	b = 100000;
 	{
-		printf("Enter your card.\n\n");
+		printf("Enter your card.\n");
 		printf("Enter pin/password = ");
 		scanf("%d", &c);
 	}
