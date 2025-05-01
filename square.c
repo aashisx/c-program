@@ -1,3 +1,4 @@
+//Hollow Square of Stars.
 //Aashish karki BCSIT-1st sem
 #include <stdio.h>
 int main() {

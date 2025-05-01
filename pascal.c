@@ -1,3 +1,4 @@
+//Pascal’s Triangle.
 //Aashish karki BCSIT-1st sem
 #include <stdio.h>
 int factorial(int n) {

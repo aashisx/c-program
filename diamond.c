@@ -1,4 +1,4 @@
-
+//Diamond pattern of stars
 //Aashish karki BCSIT-1st sem
 #include <stdio.h>
 int main() {

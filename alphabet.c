@@ -1,3 +1,4 @@
+//Alphabet triangle.
 //Aashish karki BCSIT-1st sem
 #include <stdio.h>
 int main() {
