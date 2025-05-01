@@ -1,4 +1,4 @@
-// Centered Pyramid of Stars.
+//Centered Pyramid of Stars.
 //Aashish karki BCSIT-1st sem
 #include <stdio.h>
 int main() {
