@@ -10,3 +10,4 @@ PATTERN printing using C:
 'pascal.c'=  Pascal’s Triangle.  
 'alphabet.c'= Alphabet triangle.  
 
+
